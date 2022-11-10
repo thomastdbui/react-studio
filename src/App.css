@@ -1,9 +1,25 @@
 /* Add styling for your page here */
 
 .App {
-
+    /* float:left; */
 }
 
 .BakeryItem {
-  
+   /* float: left; */
+   /* align-items: center; */
+}
+
+#bakery-item-div{
+    border-width:2px;
+    border-style:solid;
+    border-color:black; 
+    border-radius: 15px;
+    background-color: aliceblue;
+    /* justify-content: center; */
+    /* float: left; */
+    /* max-height: "100rem"; */
+
+    /* width="400rem"; */
+    /* max-width: 400rem; */
+    /* overflow: hidden; */
 }
