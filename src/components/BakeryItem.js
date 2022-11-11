@@ -8,7 +8,7 @@ export default function BakeryItem(props) {
             <h3>
                 {props.name}
             </h3>
-            <img src={props.image} width = "500rem" />
+            <img src={props.image} width = "500px" />
             <h6>
                 {props.description}
             </h6>
